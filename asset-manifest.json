@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rangarang/static/css/main.a1e3912a.css",
+    "main.js": "/rangarang/static/js/main.ccfa764d.js",
+    "index.html": "/rangarang/index.html",
+    "main.a1e3912a.css.map": "/rangarang/static/css/main.a1e3912a.css.map",
+    "main.ccfa764d.js.map": "/rangarang/static/js/main.ccfa764d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e3912a.css",
+    "static/js/main.ccfa764d.js"
+  ]
+}
