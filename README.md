@@ -1,2 +1,2 @@
-# rangarang
-rangarang
+Rangarang — Color Palette Generator with Stunning Harmonies
+Rangarang is a creative web app that generates beautiful, harmonious color palettes effortlessly. Whether you're a designer, artist, or developer, use our smart tools to create eye-catching color combinations perfect for branding, UI design, or any creative project. Get inspired and bring your visuals to life with the perfect color harmony!
